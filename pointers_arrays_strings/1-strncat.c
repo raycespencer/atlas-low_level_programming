@@ -1,4 +1,4 @@
-#include "main.h"
+#include "_putchar.c"
 
 
 char *_strncat(char *dest, char *src, int n)
