@@ -1,4 +1,4 @@
-#include "main.h"
+gcc -o 1-strncat_0 -Wall -Werror -Wextra -pedantic -std=gnu89 _putchar.c 1-strncat.c main_1.c
 
 /**
  * _strncat - Concatenates two strings
